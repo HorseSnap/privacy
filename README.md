@@ -1,5 +1,4 @@
-# privacy
-privacy
+
 <!DOCTYPE html>
 <html lang="de">
 <head>
